@@ -1,7 +1,7 @@
 logo: ""
-title: Enjoy The Moment, Enjoy The Love...
+title: Enjoy The Moment of Travel
 description: > # this means to ignore newlines until "baseurl:"
-  Краткие заметки об удивительных местах для жаждущих странствий людей. Let's see the world through my eyes, enjoying every moment and love.
+  Краткие заметки об удивительных местах для жаждущих странствий людей. 
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -14,7 +14,7 @@ banner-desc: # add banner description
 # Author settings
 author-pic: face.jpg # your photo
 author-name: Christina Kuleshevich
-about-author: Краткие заметки об удивительных местах для жаждущих странствий людей. Let's see the world through my eyes, enjoying every moment and love.# about author
+about-author: Всем привет! Меня зовут Кристина. Я родилась в небольшом городе Слониме, расположенном на западе Беларуси. Конечно же с детства во мне живет мечта объездить весь мир, увидеть Новые чудеса света и изучить удивительные природные уголки нашей планеты. Пока я только делаю первые шаги на пути к ее достижению вместе со своим любимым мужем. На страничках своего блога, я буду делиться с вами своими открытиями, впечатлениями и эмоциями, которые я получила в разных странах; постараюсь помочь вам осуществить свою мечту путешественника. Let's see the world through my eyes, enjoying every moment and love.
 email: christina@kuleshevi.ch
 phone: # your pnone number
 website: http://christina.kuleshevi.ch/ # you website
@@ -25,7 +25,7 @@ vk_url: https://vk.com/id142796500 # add url link
 facebook_url: https://www.facebook.com/profile.php?id=100003434916643&ref=bookmarks # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier
+discus_identifier: christina-kuleshevich # add your discus identifier
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
