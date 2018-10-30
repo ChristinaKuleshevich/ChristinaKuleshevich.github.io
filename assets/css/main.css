@@ -1,4 +1,4 @@
-@charset "UTF-8";
+L@charset "UTF-8";
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
@@ -3848,7 +3848,10 @@ template {
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Times New Roman", sans-serif;
+  font-size: 1.1rem;
+  color: #525c65;
+  line-height: 1.75rem;
   -webkit-font-smoothing: antialiased;
   background-color: #262626;
   margin: 0;
