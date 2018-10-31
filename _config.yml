@@ -29,10 +29,10 @@ linkedin_url: https://www.linkedin.com/in/кристина-кулешевич
 discus_identifier: christina-kuleshevich # add your discus identifier
 
 # Newsletter
-mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: https://kuleshevi.us19.list-manage.com/subscribe/post?u=9221a69e7dbccb59e0b67ca5d&amp;id=3b51b74e14
 
 # Tracker
-analytics:
+analytics: 
 
 # Paginate
 paginate: 12

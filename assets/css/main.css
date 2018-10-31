@@ -37,6 +37,10 @@ section {
   display: block;
 }
 
+p.author_subtitle  {
+	padding: 0 32px 0 32px;
+}
+
 /**
  * Correct the font size and margin on `h1` elements within `section` and
  * `article` contexts in Chrome, Firefox, and Safari.
@@ -211,6 +215,7 @@ audio:not([controls]) {
  */
 img {
   border-style: none;
+  width: 100%;
 }
 
 /**
@@ -4546,7 +4551,7 @@ cite {
           border-radius: 0.5rem;
   width: 600px;
   max-width: 90%;
-  top: 50%;
+  top: 60%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
