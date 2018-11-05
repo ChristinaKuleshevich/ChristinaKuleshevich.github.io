@@ -39,6 +39,7 @@ section {
 
 p.author_subtitle  {
 	padding: 0 32px 0 32px;
+	
 }
 
 /**
@@ -4370,6 +4371,7 @@ cite {
   padding: 2rem 0;
   margin-bottom: 1.5rem;
   background-color: #ffffff;
+  opacity: 0.7;
 }
 
 .author .author_image {

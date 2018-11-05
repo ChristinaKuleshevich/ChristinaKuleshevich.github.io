@@ -7,8 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
+video: timelapse.mp4 # add banner video. Add your video file to the folder video
+banner-title: 
 banner-desc: # add banner description
 
 # Author settings
@@ -32,7 +32,7 @@ discus_identifier: christina-kuleshevich # add your discus identifier
 mailchimp: https://kuleshevi.us19.list-manage.com/subscribe/post?u=9221a69e7dbccb59e0b67ca5d&amp;id=3b51b74e14
 
 # Tracker
-analytics: 
+analytics: UA-67288639-1
 
 # Paginate
 paginate: 12
