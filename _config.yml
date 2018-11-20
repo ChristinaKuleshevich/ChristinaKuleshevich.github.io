@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Краткие заметки об удивительных местах для жаждущих странствий людей. 
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://christina.kuleshevi.ch/" 
 
 # Banner settings
 video: timelapse.mp4 # add banner video. Add your video file to the folder video
