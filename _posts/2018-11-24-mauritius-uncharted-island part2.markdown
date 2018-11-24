@@ -4,7 +4,7 @@ title: "Маврикий: неизведанный остров (часть 2)"
 img: mauritius2.jpg # Add image post (optional)
 date: 2018-11-24 14:00:00 +0300
 description: Для желающих изведать остров Маврикий. # Add post description (optional)
-tag: [Travel, Blogging, Mauritius, Indian Ocean]
+tag: [Travel, Blogging, Mauritius, Indian Ocean, Adventure Park, Safari]
 ---
 Если Вы мечтали оказаться в «Парке Юрского Периода», то [«Casela World of Adventure»](http://caselapark.com/), расположившийся у подножия горы Рампар, для Вас! Не знаю, у нас сложилось именно такое впечатление, только вместо апатозавров – здесь великолепные и такие же добрые жирафы, вместо птеродактилей – огромное количество необычных птиц, а вместо тираннозавров – настоящие львы, и всё это посреди диких джунглей. 
 
