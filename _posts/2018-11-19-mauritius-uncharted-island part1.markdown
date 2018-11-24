@@ -64,4 +64,4 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean]
 
 ![mauritius sunset](/assets/img/mauritius_sunset.jpg)
 
-Продолжение следует...
+[Продолжение следует...](http://christina.kuleshevi.ch/mauritius-uncharted-island-part2/)
