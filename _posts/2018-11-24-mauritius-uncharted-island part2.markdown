@@ -74,7 +74,7 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, Adventure Park, Safari]
 
 ![mauritius](/assets/img/mauritius_gipopotam2.jpg)
  
-В парке развлечений «Casela» можно не только встретить интересных животных, птиц, увидеть тропические деревья: маврикийскй баобаб, эбонит, черное дерево и т.д, но и испытать острые ощущения, прокатившись на зиплайне (правда, мы это сделали в другом парке). Этот парк невероятно интересный, живописный, и Вы получите море впечатлений и эмоций, уж поверьте! 
+В парке развлечений «Casela» можно не только встретить интересных животных, птиц, увидеть тропические деревья: маврикийскй баобаб, эбонит, черное дерево и т.д, но и испытать острые ощущения, прокатившись на зиплайне (правда, мы это сделали в [другом парке](http://christina.kuleshevi.ch/mauritius-uncharted-island-part3/)). Этот парк невероятно интересный, живописный, и Вы получите море впечатлений и эмоций, уж поверьте! 
 
 ![mauritius_safary](/assets/img/mauritius_girafes2.jpg)
 
@@ -82,4 +82,4 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, Adventure Park, Safari]
 
 ![mauritius](/assets/img/mauritius_view2.jpg)
 
-Продолжение следует...
+[Продолжение следует...](http://christina.kuleshevi.ch/mauritius-uncharted-island-part3/)
