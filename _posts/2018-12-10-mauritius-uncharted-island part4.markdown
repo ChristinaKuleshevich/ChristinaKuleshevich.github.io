@@ -10,7 +10,7 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, View Points, Waterfall, Le Morn
 
 ![mauritius_road](/assets/img/mauritius_roadsouth.jpg)
 
-Начали мы своё путешествие с Вам уже известного пляжа [Flic-en-Flac](http://christina.kuleshevi.ch/mauritius-uncharted-island-part1/), направляясь в ближайший городок Cascavelle. Там нас ждало первое впечатление - невероятной высоты и широты баньяновое дерево. 
+Начали мы своё путешествие с Вам уже известного пляжа [Flic-en-Flac](http://christina.kuleshevi.ch/mauritius-uncharted-island-part1/), направляясь в ближайший городок Cascavelle. Там нас ждало первое впечатление – невероятной высоты и широты баньяновое дерево. 
 
 ![mauritius_banian](/assets/img/mauritius_banian.jpg)
 
