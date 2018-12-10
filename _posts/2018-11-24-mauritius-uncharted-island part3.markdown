@@ -80,4 +80,4 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, Adventure Park, Zipline]
 
 ![mauritius](/assets/img/mauritius_monkey.jpg)
 
-Продолжение следует…
+[Продолжение следует…](http://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
