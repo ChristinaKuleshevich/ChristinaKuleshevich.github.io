@@ -74,7 +74,7 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, View Points, Waterfall, Le Morn
 
 ![mauritius_waterfall](/assets/img/mauritius_rochester3.jpg)
 
-Этот водопад состоит из огромных камней, выступая, они образуют ступени, по которым стремится вниз водный поток. 
+Этот водопад состоит из огромных камней, выступая, они образуют ступени, по которым стремится вниз водный поток (а теперь задание, найдите мальчишку на фото внизу).  
 
 ![mauritius_waterfall](/assets/img/mauritius_rochester2.jpg)
 
