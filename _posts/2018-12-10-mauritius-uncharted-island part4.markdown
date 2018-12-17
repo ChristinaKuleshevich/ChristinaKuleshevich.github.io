@@ -94,4 +94,4 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, View Points, Waterfall, Le Morn
 
 ![mauritius_gris](/assets/img/mauritius_gris3.jpg)
 
-Продолжение следует…
+[Продолжение следует…](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
