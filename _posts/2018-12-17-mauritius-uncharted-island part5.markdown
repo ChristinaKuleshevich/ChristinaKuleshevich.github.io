@@ -98,4 +98,4 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, View Points, Waterfall, Nationa
 
 ![mauritius](/assets/img/mauritius_bluebay.jpg)
 
-Продолжение следует... 
+[Продолжение следует...](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
