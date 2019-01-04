@@ -30,7 +30,7 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, Waterfall, Chamarel]
 
 * увидели одну из визитных карточек Маврикия – Chamarel Waterfall;
 
-* посетили "Casela World of Adventure" (сафари-парк с огромным количеством диких животных, птиц и удивительных растений).
+* посетили «Casela World of Adventure» (сафари-парк с огромным количеством диких животных, птиц и удивительных растений).
 
 ![mauritius waterfall](/assets/img/mauritius_waterfall2.jpg)
 
