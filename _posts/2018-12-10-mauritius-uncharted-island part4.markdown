@@ -46,7 +46,7 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, View Points, Waterfall, Le Morn
 
 ![mauritius_lemorn](/assets/img/mauritius_lemorn4.jpg)
  
-Далее мы направились на «Maconde View Point» - это место знаменито тем, что тут дорога поворачивает на 180 градусов.
+Далее мы направились на «Maconde View Point» – это место знаменито тем, что тут дорога поворачивает на 180 градусов.
 
 ![mauritius_maconde](/assets/img/mauritius_180.jpg)
  

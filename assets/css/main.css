@@ -4372,6 +4372,7 @@ cite {
   margin-bottom: 1.5rem;
   background-color: #ffffff;
 }
+
 .about_box > .author {
   opacity: 0.7;
 }
@@ -4549,25 +4550,43 @@ cite {
   text-decoration: underline;
 }
 
-.about_box {
+.center-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  min-height: 700px;
+}
+.center-content {
   position: absolute;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.about_box {
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
   width: 600px;
   max-width: 90%;
   top: 60%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
   overflow: auto;
 }
 
+.map  > .center-content{
+  top: 55%;
+  width: 960px;
+  height: 600px;
+  overflow: hidden;
+}
+.map {
+  background-image: url(../img/bg_map.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
 .about {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  min-height: 700px;
   background-image: url(../img/bg_about.jpg);
   background-size: cover;
   background-position: 50% 50%;

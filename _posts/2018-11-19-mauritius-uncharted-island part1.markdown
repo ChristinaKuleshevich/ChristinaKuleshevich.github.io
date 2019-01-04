@@ -26,11 +26,11 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, Waterfall, Chamarel]
 
 За первую неделю из 25 пунктов списка «must do», мы выполнили 3, не считая просто отдыха на пляже и купания в прозрачной бирюзовой воде: 
 
-* посмотрели на 7 Colored Earth (знаменитые пески Шамарель);
+* посмотрели на Seven Colored Earth (знаменитые пески Шамарель);
 
 * увидели одну из визитных карточек Маврикия – Chamarel Waterfall;
 
-* посетили Casela World of Adventure (сафари-парк с огромным количеством диких животных, птиц и удивительных растений).
+* посетили "Casela World of Adventure" (сафари-парк с огромным количеством диких животных, птиц и удивительных растений).
 
 ![mauritius waterfall](/assets/img/mauritius_waterfall2.jpg)
 
