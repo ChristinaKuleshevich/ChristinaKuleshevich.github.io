@@ -8,78 +8,78 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, Adventure Park, Safari]
 ---
 Если Вы мечтали оказаться в «Парке Юрского Периода», то [«Casela World of Adventure»](http://caselapark.com/), расположившийся у подножия горы Рампар, для Вас! Не знаю, у нас сложилось именно такое впечатление, только вместо апатозавров – здесь великолепные и такие же добрые жирафы, вместо птеродактилей – огромное количество необычных птиц, а вместо тираннозавров – настоящие львы, и всё это посреди диких джунглей. 
 
-![mauritius](/assets/img/mauritius_dinosares.jpg)
+![mauritius](/assets/img/mauritius/mauritius_dinosares.jpg)
 
 «Casela World of Adventure» находится в 3 км. от пляжа Flic-en-Flac, где мы с мужем расположились. Помните, в прошлой [статье](https://christina.kuleshevi.ch/mauritius-uncharted-island-part1/) я рассказывала о том, что мы выбрали удачное место, так как рядом с пляжем Flic-en-Flac находятся самые известные достопримечательности Маврикия, и «Casela World of Adventure» одна из них. 
 
-![mauritius](/assets/img/mauritius_green2.jpg)
+![mauritius](/assets/img/mauritius/mauritius_green2.jpg)
 
 Попадая в парк, ты окружен большим количеством разных видов деревьев, через которые кое-где пробиваются лучи солнца. Всё так зелено, невероятные ощущения, ты – и дикая природа, лишь звуки птиц перебивают твои мысли. 
 
-![mauritius](/assets/img/mauritius_parot1.jpg)
+![mauritius](/assets/img/mauritius/mauritius_parot1.jpg)
 
 Пернатые здесь обитают как на воле, так и в вольерах, всего около 2500 особей, и они настолько яркие и необычные, как будто все краски, которые есть в мире, попали на перья этих созданий. 
 
-![mauritius](/assets/img/mauritius_birds2.jpg)
+![mauritius](/assets/img/mauritius/mauritius_birds2.jpg)
 
 Здесь можно увидеть попугаев, павлинов, спокойно разгуливающих по парку, голубей (розовый голубь – это редчайший вид птицы на земле, и обитает она только на Маврикии) и много других уникальных и очень красивых птиц (если честно, их в этом парке действительно очень много, и названия всех просто нереально запомнить). 
 
-![mauritius](/assets/img/mauritius_parot.jpg)
+![mauritius](/assets/img/mauritius/mauritius_parot.jpg)
 
 Далее мы отправились на смотровую площадку, с которой открывается панорамный вид на сам парк. Очень красиво: шелковый ковер густой зелени, скалистые горы и яркое немного обжигающее солнце! 
 
-![mauritius](/assets/img/mauritius_me.jpg)
+![mauritius](/assets/img/mauritius/mauritius_me.jpg)
 
 Спускаясь, ты попадаешь парк растений-эндемиков, тут можно увидеть кактусы, которые выше тебя в два, а то и в два с половиной раза.
 
-![mauritius](/assets/img/mauritius_green3.jpg)
+![mauritius](/assets/img/mauritius/mauritius_green3.jpg)
 
 В «Casela World of Adventure» в стеклянном вольере обитают обезьяны, эти животные очень забавные. Их тут не пускают на волю, так как они еще те воришки и вредины. Но они живут в прекрасных условиях, Вы не подумайте, это не наши цирки или зоопарки. По соседству с ними гуляют маленькие оленята Бэмби, козлята, ламы и еще много разных животных. 
 
-![mauritius_lama](/assets/img/mauritius_lama.jpg)
+![mauritius_lama](/assets/img/mauritius/mauritius_lama.jpg)
 
 Наше сердце покорили гигантские черепахи, некоторым из которых по 150 лет. Эти исполинские черепахи-долгожители были привезены сюда с Сейшельских островов. Их тут можно гладить и спокойно с ними фотографироваться.
 
-![mauritius_torotise](/assets/img/mauritius_tortoise2.jpg)
+![mauritius_torotise](/assets/img/mauritius/mauritius_tortoise2.jpg)
  
 После осмотра основного парка, мы отправились наблюдать за животными Африки. 
 
-![mauritius_safary](/assets/img/mauritius_lion.jpg)
+![mauritius_safary](/assets/img/mauritius/mauritius_lion.jpg)
 
 Белые львы и львицы, гепарды, тигры, за ними можно не только подсмотреть со смотровой вышки, но и с ними прогуляться (правда в воскресенье это развлечение было закрыто, а так бы мы с мужем пощекотали себе нервишки, и погладили этих созданий). 
 
-![mauritius_safary](/assets/img/mauritius_cats.jpg)
+![mauritius_safary](/assets/img/mauritius/mauritius_cats.jpg)
 
 Зато прикоснуться к жирафам нам удалось. Эти существа настолько добрые и милые, что заставляли улыбаться всех туристов!
 
-![mauritius_safary](/assets/img/mauritius_girafes.jpg)
+![mauritius_safary](/assets/img/mauritius/mauritius_girafes.jpg)
 
 Далее нас ждал автобус и поездка по сафари, ух, очень зрелищно! 
 
-![mauritius_safary](/assets/img/mauritius_animals1.jpg)
+![mauritius_safary](/assets/img/mauritius/mauritius_animals1.jpg)
 
 В реальной дикой природе ты наблюдаешь за семейкой зебр с детенышами, прямо к твоему автобусу подходит несколько пушистых страусов, а вдали пасутся антилопы и дикие олени. 
 
-![mauritius_safary](/assets/img/mauritius_animals3.jpg)
+![mauritius_safary](/assets/img/mauritius/mauritius_animals3.jpg)
 
 Столько эмоций и впечатлений, даже сложно передать словами. 
 
-![mauritius_safary](/assets/img/mauritius_animals2.jpg)
+![mauritius_safary](/assets/img/mauritius/mauritius_animals2.jpg)
 
 Воодушевленные и переполненные счастьем, мы направлялись к выходу, как вспомнили, что забыли посмотреть на гиппопотама. Я не могла пропустить это, уж очень хотелось увидеть Глорию в живую (персонаж из мультика «Мадагаскар», наверняка все помнят). И, как оказалось, нам повезло, что мы это сделали вечером, перед закрытием парка. Ведь именно между 16.00 и 17.00 гиппопотама кормят, и только в это время он позволяет себе вылезти из теплой водички и показаться зрителям. Судя по размерам вольера, мы думали, что увидим большое животное, мощно шагающее по земле, а это оказалась маленькая мордочка, торчащая из листьев камыша, которая периодически открывала рот, когда ей рабочий парка подсовывал очередную морковку.
 
-![mauritius](/assets/img/mauritius_gipopotam.jpg)
+![mauritius](/assets/img/mauritius/mauritius_gipopotam.jpg)
 
 Было забавно. Кстати, этого гиппопотама звали Афина.
 
-![mauritius](/assets/img/mauritius_gipopotam2.jpg)
+![mauritius](/assets/img/mauritius/mauritius_gipopotam2.jpg)
  
 В парке развлечений «Casela» можно не только встретить интересных животных, птиц, увидеть тропические деревья: маврикийскй баобаб, эбонит, черное дерево и т.д, но и испытать острые ощущения, прокатившись на зиплайне (правда, мы это сделали в [другом парке](http://christina.kuleshevi.ch/mauritius-uncharted-island-part3/)). Этот парк невероятно интересный, живописный, и Вы получите море впечатлений и эмоций, уж поверьте! 
 
-![mauritius_safary](/assets/img/mauritius_girafes2.jpg)
+![mauritius_safary](/assets/img/mauritius/mauritius_girafes2.jpg)
 
 И еще небольшой совет, если Вы решите отправится в этот парк, то лучше прийти к открытию. Так у Вас будет много времени на то, чтобы прогуляться по самому парку, рассмотреть всех его жителей, вкусно пообедать в местном ресторанчике с прекрасным видом на горы, и поучаствовать в активных развлечениях, которые тут предлагаются. 
 
-![mauritius](/assets/img/mauritius_view2.jpg)
+![mauritius](/assets/img/mauritius/mauritius_view2.jpg)
 
 [Продолжение следует...](http://christina.kuleshevi.ch/mauritius-uncharted-island-part3/)

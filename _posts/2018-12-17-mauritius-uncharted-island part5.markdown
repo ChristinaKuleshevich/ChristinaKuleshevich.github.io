@@ -6,96 +6,96 @@ date: 2018-12-17 15:00:00 +0300
 description: Для желающих изведать остров Маврикий. # Add post description (optional)
 tag: [Travel, Blogging, Mauritius, Indian Ocean, View Points, Waterfall, National Park]
 ---
-На западном побережье острова Маврикий, около пляжа [Flic-en-Flac](https://christina.kuleshevi.ch/mauritius-uncharted-island-part1/) мы прожили месяц. Замечательное место: потрясающие закаты, чистейшая вода и белоснежный 13 километровый пляж. За это время мы успели посмотреть множество достопримечательностей Маврикия, о которых я писала ранее. Теперь же пришло время отправиться в другое место, не менее великолепное восточное побережье, а именно в городок «Blue Bay».
+На западном побережье острова Маврикий, около пляжа [«Flic-en-Flac»](https://christina.kuleshevi.ch/mauritius-uncharted-island-part1/) мы прожили месяц. Замечательное место: потрясающие закаты, чистейшая вода и белоснежный 13 километровый пляж. За это время мы успели посмотреть множество достопримечательностей Маврикия, о которых я писала ранее. Теперь же пришло время отправиться в другое место, не менее великолепное восточное побережье, а именно в городок Blue Bay.
 
-![mauritius_fli-en-flac](/assets/img/mauritius_flicflac.jpg)
+![mauritius_fli-en-flac](/assets/img/mauritius/mauritius_flicflac.jpg)
 
 Арендовав машину, мы поехали по дороге через центр острова. И первым пунктом нашей остановки на пути к Blue Bay была смотровая площадка с видом на водопады «Tamarind Falls» (так же известные, как «Seven Cascades»). 
 
-![mauritius_seven cascades](/assets/img/mauritius_sevencascades.jpg)
+![mauritius_seven cascades](/assets/img/mauritius/mauritius_sevencascades.jpg)
 
 Это сеть из семи каскадных водопадов, одновременно падающих с обрывов вниз между бескрайними дикими джунглями ущелий «Curepipe» and «Black River». Очень красивое и тихое место. В такой момент хочется стать птицей, чтобы хотя бы на минутку приблизиться к этому чуду природы и увидеть его в полном масштабе. 
 
-![mauritius_seven cascades](/assets/img/mauritius_sevencascades3.jpg)
+![mauritius_seven cascades](/assets/img/mauritius/mauritius_sevencascades3.jpg)
 
 Общая высота «Tamarind Waterfalls» – 293 метра. Если Вы любите экстрим и острые ощущения, то отправляйтесь в «Hidden Viewpoint Seven Cascades Waterfall». Там Вас встретит гид, который поможет осуществить поход вдоль водопадов. А если хотите просто посмотреть на это чудо природы со стороны, то Вам нужно место «The Tamarind Falls», около городка Henrietta.
 
-![mauritius_seven cascades](/assets/img/mauritius_sevencascades2.jpg)
+![mauritius_seven cascades](/assets/img/mauritius/mauritius_sevencascades2.jpg)
 
 Следующим пунктом нашего путешествия было священное место для индусов, «Ganga Talao» (больше известное, как «Grand Bassin»). Это озеро, расположившееся в кратере потухшего вулкана, на береговой линии которого находится храм с собранием маленьких святынь, посвященных богу Shiva и другим богам. Озеро часто называют «Вторым Гангом».
 
-![mauritius_ganga talao](/assets/img/mauritius_grandbassin1.jpg)
+![mauritius_ganga talao](/assets/img/mauritius/mauritius_grandbassin1.jpg)
  
 Что нас больше всего поразило, так это высота статуй, расположенных около входа на территорию Ganga Talao – 33 метра.
 
-![mauritius_ganga talao](/assets/img/mauritius_grandbassin4.jpg)
+![mauritius_ganga talao](/assets/img/mauritius/mauritius_grandbassin4.jpg)
  
 Первая статуя – «Durga Mata», богиня победы, едущая на льве. Это самая высокая статуя богине Durga в мире. На ее строительство ушло 6 лет, 2000 метров кубических бетона и 400 тонн железа.
 
-![mauritius_ganga talao](/assets/img/mauritius_grandbassin2.jpg)
+![mauritius_ganga talao](/assets/img/mauritius/mauritius_grandbassin2.jpg)
  
-Вторая – «Lord Shiva», бог разрушитель. Однако не бойтесь своей гибели, в Grand Bassin Вы найдете индуистского бога разрушения, улыбающегося и мирного, как никогда. Одна из легенд гласит, что Lord Shiva со своей женой Parvati отправились в путешествие по всему миру на корабле, чтобы посмотреть самые красивые места на Земле. На голове Shiva нес воды реки Ганг, и во время приземления на Маврикии, случайно пролил их. Так и образовалось озеро Ganga Talao («Grand Bassin»).
+Вторая – «Lord Shiva», бог разрушитель. Однако не бойтесь своей гибели, в «Grand Bassin» Вы найдете индуистского бога разрушения, улыбающегося и мирного, как никогда. Одна из легенд гласит, что Lord Shiva со своей женой Parvati отправились в путешествие по всему миру на корабле, чтобы посмотреть самые красивые места на Земле. На голове Shiva нес воды реки Ганг, и во время приземления на Маврикии, случайно пролил их. Так и образовалось озеро Ganga Talao («Grand Bassin»).
 
-![mauritius_ganga talao](/assets/img/mauritius_grandbassin3.jpg)
+![mauritius_ganga talao](/assets/img/mauritius/mauritius_grandbassin3.jpg)
 
 Статуи невероятно красочные, как и весь комплекс храма. Но, на мой взгляд, самыми яркими тут являются местные жители – обезьянки. Они смело, без доли стеснения требуют дань за вход на территорию озера. 
 
-![mauritius_monkey](/assets/img/mauritius_monkey2.jpg)
+![mauritius_monkey](/assets/img/mauritius/mauritius_monkey2.jpg)
 
 Очень милые и, в то же время, хитрые существа. А увидеть их вот так, в живой природе, скачущих, лазающих по деревьям, сидящих с протянутой лапкой за очередной порцией угощений – это нереально круто!
 
-![mauritius_monkey](/assets/img/mauritius_monkey3.jpg)
+![mauritius_monkey](/assets/img/mauritius/mauritius_monkey3.jpg)
  
 Далее мы отправились в национальный парк «Black River Gorges National Park». Это настоящий тропический рай. Чувствуешь такую легкость, умиротворение, единение с природой, вдыхая полной грудью свежий аромат леса и только что прошедшего тропического дождика. 
 
-![mauritius_blackriver](/assets/img/mauritius_blackriver4.jpg)
+![mauritius_blackriver](/assets/img/mauritius/mauritius_blackriver4.jpg)
 
 «Black River Gorges National Park» – является крупнейшим охраняемым лесом Маврикия. В этом природном заповеднике можно почувствовать себя настоящим исследователем, открывая всё богатство и разнообразие флоры и фауны острова. Очаровательные, дикие просторы густого леса являются домом для более чем 300 видов цветущих растений и 9 видов птиц, уникальных для Маврикия, включая знаменитого розового голубя, который постепенно возвращается с грани исчезновения.
 
-![mauritius_blackriver](/assets/img/mauritius_blackriver.jpg)
+![mauritius_blackriver](/assets/img/mauritius/mauritius_blackriver.jpg)
  
 Тут в самом сердце диких джунглей с гор спускается великолепный водопад «Alexandra Falls», воды которого растворяются в зелени тропиков. Красивое место. 
 
-![mauritius_blackriver](/assets/img/mauritius_blackriver2.jpg)
+![mauritius_blackriver](/assets/img/mauritius/mauritius_blackriver2.jpg)
 
 Здесь мы еще и попали под дождь, что добавило немного пикантности в этот невероятно вкусный природный коктейль. Стоит отметить, что это был совсем другой дождь, не такой как в Беларуси. Должно быть сочетание теплого солнца, джунглей, и осознание того, что ты на острове, делает его столь необычным.
 
-![mauritius_blackriver](/assets/img/mauritius_blackriver3.jpg)
+![mauritius_blackriver](/assets/img/mauritius/mauritius_blackriver3.jpg)
  
 Проехав чуть дальше вдоль парка, мы добрались до смотровой площадки «Gorges Viewpoint». 
 
-![mauritius_monkey](/assets/img/mauritius_monkey5.jpg)
+![mauritius_monkey](/assets/img/mauritius/mauritius_monkey5.jpg)
 
 Передать всё, что ты чувствуешь, глядя на эту картину, созданную природой, сложно. Только представьте: Вы сидите почти на обрыве скалы, а перед Вами бескрайние холмы и долины, сотканные из ярко-зелёных крон деревьев, и окутанные легкой шалью синего океана. И всё это дополняет журчание водопада «Plaines Champagne», и болтовня на непонятном нам языке диких обезьян. Восторг! 
 
-![mauritius_blackriver](/assets/img/mauritius_blackriver5.jpg)
+![mauritius_blackriver](/assets/img/mauritius/mauritius_blackriver5.jpg)
 
 Кстати, по совей наивности и предыдущему знакомству с обезьянками на озере «Grand Bassin», я смело пустилась фотографироваться с жителями Gorges Viewpoint, и как оказалось, они не столь любезны. Самая большая обезьяна, вожак, чуть не накинулась на меня, не допуская к своей семье. 
 
-![mauritius_monkey](/assets/img/mauritius_monkey6.jpg)
+![mauritius_monkey](/assets/img/mauritius/mauritius_monkey6.jpg)
 
 Как мы позже узнали, он тут гоняет всех туристов, и подпускает к себе только тогда, когда ему преподносят еду. А если так подумать, то я его прекрасно понимаю. Пришла целая толпа людей на его территорию, кричат, смеются, наставили объективы и постоянно щелкают фотоаппаратами, да еще и пытаются нарушить личное пространство. Кому бы это понравилось.
 
-![mauritius_monkey](/assets/img/mauritius_monkey4.jpg)
+![mauritius_monkey](/assets/img/mauritius/mauritius_monkey4.jpg)
  
 В общем, наблюдать за этими обезьянками было то еще зрелище. Особенно, когда они атаковали одну из туристок. Нет Вы не подумайте, с нею всё в порядке. Но две пачки чипсов ей пришлось отдать не по собственной воле. Должна отметить, что эти обезьянки весьма умные, и сразу сообразили, что их больше всего боятся девушки. Вот и выбрали себе жертву для нападения. А самой проворной оказалась беременная обезьяна, которой эти две пачки и достались, она даже ни с кем не поделилась.
 
-![mauritius_monkey](/assets/img/mauritius_monkey7.jpg)
+![mauritius_monkey](/assets/img/mauritius/mauritius_monkey7.jpg)
  
 Переполненные эмоциями, мы отправились дальше. 
 
-![mauritius_monkey](/assets/img/mauritius_monkey8.jpg)
+![mauritius_monkey](/assets/img/mauritius/mauritius_monkey8.jpg)
 
 Дорога на восточное побережье оказалась очень живописной. Мы проезжали мимо бескрайних чайных плантаций и полей сахарного тростника (кстати, здесь есть своя фабрика по производству чая, «Bois Cheri Tea Factory»), мимо красочных домов и по узким улочкам здешних городов, мимо гор, почти приближаясь к океану, и вновь отдаляясь от него.
 
-![mauritius_tea](/assets/img/mauritius_tea.jpg)
+![mauritius_tea](/assets/img/mauritius/mauritius_tea.jpg)
  
 Если в New York, Вы восхищаетесь красотою и величием построек, яркими огнями площади «Times Square», то здесь Ваше сердце замирает от сияния звезд на небе, от густой зелени гор и холмов, и от бескрайнего, волнующего душу океана. 
 
-![mauritius](/assets/img/mauritius_view6.jpg)
+![mauritius](/assets/img/mauritius/mauritius_view6.jpg)
 
-Так мы добрались до местечка «Blue Bay», о котором я расскажу в следующий раз. 
+Так мы добрались до местечка Blue Bay, о котором я расскажу в следующий раз. 
 
-![mauritius](/assets/img/mauritius_bluebay.jpg)
+![mauritius](/assets/img/mauritius/mauritius_bluebay.jpg)
 
 [Продолжение следует...](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
