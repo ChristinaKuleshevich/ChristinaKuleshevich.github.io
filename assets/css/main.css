@@ -357,7 +357,7 @@ textarea {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   /* 1 */
-  padding: 0;
+  padding right: 6;
   /* 2 */
 }
 

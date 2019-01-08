@@ -119,34 +119,34 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, Port Louis, Advice, Top]
 
 ![mauritius_beach](/assets/img/mauritius/mauritius_beach3.jpg)
 
-*ДОСТОПРИМЕЧАТЕЛЬНОСТИ.* Теперь хочу поделиться с Вами нашим списком «Must Visit». Зачеркнуто то, что мы успели посмотреть на острове Маврикий:
+*ДОСТОПРИМЕЧАТЕЛЬНОСТИ.* Теперь хочу поделиться с Вами нашим списком «Must Visit»:
 
 
-1.	[~~«Seven Colored Earth» и водопад «Chamarel».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part1/)
-2.	~~Ромовый завод «La Rhumerie de Chamarel».~~
-3.	[~~Природный парк «Casela World of Adventure».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part2/)
-4.	~~Albion Lighthouse & Cliff (маяк недалеко от Port Louis).~~
-5.	Набережная и «Citadel Fort» в Port Louis.
-6.	Ботанический сад «Sir Seewoosagur Ramgoolam Botanical Garden» (северная часть острова).
-7.	Костел «Notre-Dame Auxiliatrice de Cap Malheureux» (на самом севере острова). 
-8.	[~~Природный парк «La Vallee des Couleurs Nature Park».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part3/)
-9.	[~~Пляж «Le Morne»~~, гора «Le Morne» и подводный водопад.](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/) 
-10.	[~~Смотровая площадка «Maconde Viewpoint».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
-11.	[~~Увидеть баньяновое дерево возле Cascavelle.~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
-12.	[~~Пальмовая дорога.~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
-13.	[~~Водопад «Rochester Falls».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
-14.	[~~Мыс «Gris-Gris» (самая южная точка острова).~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
-15.	[~~Смотровая площадка «Black River Gorges Viewpoint» и водопад «Alexandra Falls».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
-16.	[~~Водопады «Tamarind Falls».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
-17.	[Лагуна «Tamarin Bay»](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/) и плавание с дельфинами.
-18.	Риф возле острова «Ile aux Benitiers». 
-19.	[~~Священное озеро «Ganga Talao» (больше известное, как «Grand Bassin»).~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
-20.	[Чайные плантации и чайная фабрика «Bois Cheri Tea Factory».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
-21.	[~~Природный парк «Blue Bay Marine Park».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
-22.	[~~Пляж «Pointe d’Esny».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
-23.	Остров «Ile aux Cerfs» (недалеко от Blue Bay).
-24.	[~~Природный мост «Pont Naturel».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
-25.	[~~Природный парк «La Vanille Nature Park».~~](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
+1.	[x] [«Seven Colored Earth» и водопад «Chamarel».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part1/)
+2.	[x] Ромовый завод «La Rhumerie de Chamarel».
+3.	[x] [Природный парк «Casela World of Adventure».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part2/)
+4.	[x] Albion Lighthouse & Cliff (маяк недалеко от Port Louis).
+5.	[ ] Набережная и «Citadel Fort» в Port Louis.
+6.	[ ] Ботанический сад «Sir Seewoosagur Ramgoolam Botanical Garden» (северная часть острова).
+7.	[ ] Костел «Notre-Dame Auxiliatrice de Cap Malheureux» (на самом севере острова). 
+8.	[x] [Природный парк «La Vallee des Couleurs Nature Park».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part3/)
+9.	[x] [Пляж «Le Morne», гора «Le Morne» и подводный водопад.](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/) 
+10.	[x] [Смотровая площадка «Maconde Viewpoint».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
+11.	[x] [Увидеть баньяновое дерево возле Cascavelle.](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
+12.	[x] [Пальмовая дорога.](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
+13.	[x] [Водопад «Rochester Falls».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
+14.	[x] [Мыс «Gris-Gris» (самая южная точка острова).](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/)
+15.	[x] [Смотровая площадка «Black River Gorges Viewpoint» и водопад «Alexandra Falls».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
+16.	[x] [Водопады «Tamarind Falls».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
+17.	[ ] [Лагуна «Tamarin Bay»](https://christina.kuleshevi.ch/mauritius-uncharted-island-part4/) и плавание с дельфинами.
+18.	[ ] Риф возле острова «Ile aux Benitiers». 
+19.	[x] [Священное озеро «Ganga Talao» (больше известное, как «Grand Bassin»).](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
+20.	[ ] [Чайные плантации и чайная фабрика «Bois Cheri Tea Factory».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part5/)
+21.	[x] [Природный парк «Blue Bay Marine Park».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
+22.	[x] [Пляж «Pointe d’Esny».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
+23.	[ ] Остров «Ile aux Cerfs» (недалеко от Blue Bay).
+24.	[x] [Природный мост «Pont Naturel».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
+25.	[x] [Природный парк «La Vanille Nature Park».](https://christina.kuleshevi.ch/mauritius-uncharted-island-part6/)
 
 
 О поездке в столицу острова Port Louis я Вам еще не рассказывала. Это небольшой город на северо-западе острова. В нем есть прекрасная набережная, порт, красивый костел и крепость «Citadel Fort». Если честно, город нас не особо впечатлил, возможно потому, что в нем мы провели буквально час. Но ведь у каждого человека своё мнение, поэтому посетить город стоит. 
