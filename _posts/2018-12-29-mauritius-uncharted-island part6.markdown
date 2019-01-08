@@ -78,4 +78,4 @@ tag: [Travel, Blogging, Mauritius, Indian Ocean, Blue Bay, Beaches, Nature Park]
 
 ![mauritius](/assets/img/mauritius/mauritius_sunset2.jpg)
 
-Продолжение следует…
+[Продолжение следует…](https://christina.kuleshevi.ch/mauritius-uncharted-island-part7/)
