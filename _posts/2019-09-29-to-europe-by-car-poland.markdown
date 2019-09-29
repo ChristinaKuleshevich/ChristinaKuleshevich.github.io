@@ -138,6 +138,6 @@ tag: [Travel, Blogging, Europe, Poland, Warsaw, Wraclaw, Tripbycar]
 
 Все перечисленные выше достопримечательности Вы можете найти на карте. 
 
-<iframe src="https://drive.google.com/open?id=1Mj7txSNAEpzWKKjjMIKATCM9qy4cFok1" width="841" height="561"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Mj7txSNAEpzWKKjjMIKATCM9qy4cFok1" width="841" height="561"></iframe>
 
 Продолжение следует…
