@@ -23,12 +23,12 @@ tag: [Travel, Blogging, Europe, Switzerland, Zurich, Luzern, Pilatus, Tripbycar]
 
 ![zurich](/assets/img/europe/zurich2.jpg)
 
-1. Панорамная терраса перед Федеральным Технологическим Институтом – Политеррас (Polyterrasse). 
+1.Панорамная терраса перед Федеральным Технологическим Институтом – Политеррас (Polyterrasse). 
 Весь центр Старого города с его основными шпилями (башни собора Гроссмюнстер, церковь аббатства Фраумюнстер и башня с часами церкви Святого Петра) как на ладони. 
 
 ![zurich](/assets/img/europe/zurich_view_point1.jpg)
 
-2. Смотровая площадка в башнях собора Гроссмюнстер. 
+2.Смотровая площадка в башнях собора Гроссмюнстер. 
 Цюрих виден на все 360°.
 
 ![zurich](/assets/img/europe/zurich_view_point2.jpg)
@@ -49,7 +49,7 @@ tag: [Travel, Blogging, Europe, Switzerland, Zurich, Luzern, Pilatus, Tripbycar]
 
 ![zurich_church](/assets/img/europe/zurich_church.jpg)
 
-3. Смотровая площадка у ресторанчика «Die Waid» (Aussichtspunkt Waid). 
+3.Смотровая площадка у ресторанчика «Die Waid» (Aussichtspunkt Waid). 
 С этой точки прекрасно видно, как Цюрих окутывают невероятно зеленые горы, которые иногда прячутся в дымке облаков. Получается потрясающий коктейль творений природы и рук человека.   
 
 ![zurich](/assets/img/europe/zurich_view_point3.jpg)

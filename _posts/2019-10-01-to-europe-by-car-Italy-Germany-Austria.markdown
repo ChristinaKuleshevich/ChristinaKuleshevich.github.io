@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "В Европу на машине (Италия, Германия, Австрия)"
-img: europe2.jpg # Add image post (optional)
-date: 2019-09-30 10:00:00 +0300
+img: europe3.jpg # Add image post (optional)
+date: 2019-10-01 10:00:00 +0300
 description: Для тех, кто хочет посетить старушку Европу на машине # Add post description (optional)
 tag: [Travel, Blogging, Europe, Italy, Germany, Como, Milan, Austria]
 ---
