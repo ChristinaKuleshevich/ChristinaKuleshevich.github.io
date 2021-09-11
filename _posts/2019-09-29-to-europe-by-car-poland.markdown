@@ -140,4 +140,4 @@ p.s. Все перечисленные выше достопримечатель
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Mj7txSNAEpzWKKjjMIKATCM9qy4cFok1" width="841" height="561"></iframe>
 
-Продолжение следует…
+[Продолжение следует…](https://christina.kuleshevi.ch/to-europe-by-car-switzerland/)
