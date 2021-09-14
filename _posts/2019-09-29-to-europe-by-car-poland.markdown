@@ -122,7 +122,7 @@ tag: [Travel, Blogging, Europe, Poland, Warsaw, Wraclaw, Tripbycar]
 
 ![wraclaw_gnome](/assets/img/europe/wraclaw_gnome.jpg)
 
-Самих гномиков мы встретили лишь парочку, а вот на ночное светомузыкальное шоу фонтанов, посвященное этим жителям города, попали. И я была в полном восторге! Посмотреть видео этого завораживающего представления можете [тут.](https://drive.google.com/open?id=1JsMjsCQZBFWicTCxvIdMIGcMgTl1mE2s) 
+Самих гномиков мы встретили лишь парочку, а вот на ночное светомузыкальное шоу фонтанов, посвященное этим жителям города, попали. И я была в полном восторге! Посмотреть видео этого завораживающего представления можете [тут.](https://drive.google.com/file/d/1JsMjsCQZBFWicTCxvIdMIGcMgTl1mE2s/view?usp=sharing) 
 
 Ну, и конечно же, мы не обошли стороной исторический центр города, с его ярко раскрашенными домами, величественной Ратушей и сверкающими на солнце фонтанами – все это так и манит к себе туристов. Здесь можно посидеть в уютном кафе и насладиться прекрасными видами.
 
@@ -135,9 +135,5 @@ tag: [Travel, Blogging, Europe, Poland, Warsaw, Wraclaw, Tripbycar]
 Нам этот город понравился чуточку больше Варшавы, должно быть, из-за того, что тут живут невероятно душевные люди. 
 
 ![wraclaw](/assets/img/europe/wraclaw_we.jpg)
-
-p.s. Все перечисленные выше достопримечательности Вы можете найти на карте. 
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1Mj7txSNAEpzWKKjjMIKATCM9qy4cFok1" width="841" height="561"></iframe>
 
 [Продолжение следует…](https://christina.kuleshevi.ch/to-europe-by-car-switzerland/)

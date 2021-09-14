@@ -154,4 +154,4 @@ tag: [Travel, Blogging, Europe, Switzerland, Zurich, Luzern, Pilatus, Tripbycar]
 
 ![switzerland](/assets/img/europe/switzerland4.jpg)
 
-Продолжение следует…
+[Продолжение следует…](https://christina.kuleshevi.ch/to-europe-by-car-Italy-Germany-Austria/)
