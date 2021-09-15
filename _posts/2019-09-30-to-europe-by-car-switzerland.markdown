@@ -156,6 +156,6 @@ tag: [Travel, Blogging, Europe, Switzerland, Zurich, Luzern, Pilatus, Tripbycar]
 
 p.s. Все перечисленные в статье достопримечательности, Вы можете найти на карте. 
 
-<iframe src="https://www.google.com/maps/d/edit?mid=1oxpC3ndgvt9be32VZdX-MdNsOzE6Csih&usp=sharing" width="841" height="561"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1oxpC3ndgvt9be32VZdX-MdNsOzE6Csih" width="841" height="561"></iframe>
 
 [Продолжение следует…](https://christina.kuleshevi.ch/to-europe-by-car-Italy-Germany-Austria/)

@@ -157,6 +157,6 @@ tag: [Travel, Blogging, Europe, Italy, Germany, Como, Milan, Austria]
 
 ![switzerland](/assets/img/europe/switzerlnd5.jpg)
 
-p.s. Все перечисленные в статьях достопримечательности, Вы можете найти на карте. 
+p.s. Все перечисленные в статье достопримечательности, Вы можете найти на карте. 
 
-<iframe src="https://www.google.com/maps/d/edit?mid=1VqiCk5PCCkFQn1usXbuc-jZN9qvUsO5f&usp=sharing" width="841" height="561"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1RsigwozHblcthUi15GzqJiyjC7xP0rkz" width="841" height="561"></iframe>
