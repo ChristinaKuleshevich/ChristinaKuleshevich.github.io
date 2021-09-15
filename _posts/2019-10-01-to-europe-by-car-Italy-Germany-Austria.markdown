@@ -159,4 +159,4 @@ tag: [Travel, Blogging, Europe, Italy, Germany, Como, Milan, Austria]
 
 p.s. Все перечисленные в статьях достопримечательности, Вы можете найти на карте. 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Mj7txSNAEpzWKKjjMIKATCM9qy4cFok1" width="841" height="561"></iframe>
+<iframe src="https://www.google.com/maps/d/edit?mid=1VqiCk5PCCkFQn1usXbuc-jZN9qvUsO5f&usp=sharing" width="841" height="561"></iframe>

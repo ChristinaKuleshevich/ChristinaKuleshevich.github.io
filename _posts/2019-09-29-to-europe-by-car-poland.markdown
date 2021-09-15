@@ -136,4 +136,8 @@ tag: [Travel, Blogging, Europe, Poland, Warsaw, Wraclaw, Tripbycar]
 
 ![wraclaw](/assets/img/europe/wraclaw_we.jpg)
 
+p.s. Все перечисленные в статье достопримечательности, Вы можете найти на карте. 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Mj7txSNAEpzWKKjjMIKATCM9qy4cFok1" width="841" height="561"></iframe>
+
 [Продолжение следует…](https://christina.kuleshevi.ch/to-europe-by-car-switzerland/)

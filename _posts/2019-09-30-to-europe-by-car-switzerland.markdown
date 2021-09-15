@@ -118,7 +118,7 @@ tag: [Travel, Blogging, Europe, Switzerland, Zurich, Luzern, Pilatus, Tripbycar]
 
 ![luzern](/assets/img/europe/luzern2.jpg)
 
-Полюбоваться красотою озера Люцерн можно из разных точек, мы решили это сделать с высоты 1132 м. над уровнем моря, поднявшись на северную сторону альпийской горы Бургеншток по пешеходной тропе, проложенной вдоль леса. 
+Полюбоваться красотою озера Люцерн можно из разных точек, мы решили это сделать с высоты 1132 м. над уровнем моря, поднявшись на северную сторону альпийской горы Бюргеншток по пешеходной тропе, проложенной вдоль леса. 
 
 ![luzern](/assets/img/europe/luzern3.jpg)
 
@@ -153,5 +153,9 @@ tag: [Travel, Blogging, Europe, Switzerland, Zurich, Luzern, Pilatus, Tripbycar]
 Швейцария покорила моё сердце, и в неё очень хочется вернуться! Надеюсь, мечта сбудется.
 
 ![switzerland](/assets/img/europe/switzerland4.jpg)
+
+p.s. Все перечисленные в статье достопримечательности, Вы можете найти на карте. 
+
+<iframe src="https://www.google.com/maps/d/edit?mid=1oxpC3ndgvt9be32VZdX-MdNsOzE6Csih&usp=sharing" width="841" height="561"></iframe>
 
 [Продолжение следует…](https://christina.kuleshevi.ch/to-europe-by-car-Italy-Germany-Austria/)
